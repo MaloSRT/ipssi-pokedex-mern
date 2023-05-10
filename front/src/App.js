@@ -13,6 +13,9 @@ function App() {
           <button id="cn">🇨🇳</button>
           <button id="ja">🇯🇵</button>
         </div>
+        <div class="poke-list">
+          
+        </div>
       </header>
     </div>
   );
